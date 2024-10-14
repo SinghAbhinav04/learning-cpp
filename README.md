@@ -17,7 +17,7 @@ This repository contains my exercises in C++. Below is a summary of the various 
    - A simple C++ calculator application using object-oriented principles.
 
 ### 5. **CLI Register Page**
-   - Created a command-line interface (CLI) for user registration, simulating input validation and data storage.
+   - Created a command-line interface (CLI) for user registration.
 
 ### 6. **Friend Class and Friend Function**
    - Used friend classes and functions to access private and protected members of other classes.
