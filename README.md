@@ -41,3 +41,4 @@ This repository contains my exercises in C++. Below is a summary of the various 
      - **Generic Classes** to support different data types.
      - **Generic Functions** for type-independent operations.
 
+> Note: All code is written in a single file for each concept.
